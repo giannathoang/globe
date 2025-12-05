@@ -11644,6 +11644,7 @@
         "scalerank": 1,
         "labelrank": 2,
         "sovereignt": "Italy",
+        "visited" : 1, 
         "sov_a3": "ITA",
         "adm0_dif": 0,
         "level": 2,
